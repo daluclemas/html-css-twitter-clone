@@ -104,8 +104,8 @@ button{
     border:1px hidden white;
     display:flex;
     flex-direction:column;
-    margin-left:auto;
-    margin-right:auto;
+    /* margin-left:auto;
+    margin-right:auto; */
     grid-column:span 12;
 }
 
